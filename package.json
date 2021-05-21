@@ -1,0 +1,26 @@
+{
+  "name": "cn_zas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1295721497/cn_zas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1295721497/cn_zas/issues"
+  },
+  "homepage": "https://github.com/1295721497/cn_zas#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
